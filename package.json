@@ -1,0 +1,13 @@
+{
+  "name": "nodefied",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "nodefied.js",
+  "bin": {
+    "nodefied": "nodefied.js"
+  },
+  "author": "Gustavo Farias de Siqueira",
+  "license": "ISC",
+  "dependencies": {}
+}
