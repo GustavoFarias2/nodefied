@@ -5,7 +5,7 @@ a pure js framework
 > this project is just for study
 
 
-## Projeto
+## Project
 
 * Comands
   * Create modules
